@@ -3,3 +3,7 @@
 .active {
   color: red;
 }
+
+.ant-table-content{
+  border: 1px solid #b2d3fb;
+}
